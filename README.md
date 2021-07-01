@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swapnil Patil
 - 👀 I’m interested in MERN / Web Development/ Software Development
-- 🌱 I’m currently learning Python / React / Node / PHP
+- 🌱 I’m currently working On - React / Node / PHP / MongoDB / ExpresJs
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Mail -  patilswapnil8956@gmail.com
 

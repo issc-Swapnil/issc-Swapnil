@@ -7,7 +7,8 @@
 - 📫 How to reach me Mail -  patilswapnil8956@gmail.com
 
 
-
+<h2>My Git stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=issc-Swapnil&&show_icons=true&count_private=true&theme=radical"/>
 <!---
 issc-Swapnil/issc-Swapnil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

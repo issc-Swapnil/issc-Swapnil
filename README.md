@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issc-swapnil" alt="issc-swapnil" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS Services like Lamda, API Gateway, CloudWatch **
 
 - 👯 I’m looking to collaborate In **MERN**
 
-- 🤝 I’m looking for help with **Twilio**
-
-- 💬 Ask me about **React,Node,PHP**
+- 💬 Ask me about **React,Node,NextJS**
 
 - 📫 How to reach me **patilswapnil8956@gmail.com**
 
